@@ -10,8 +10,8 @@
             <SolidColorBrush x:Key="RootBackgroundBrush" Color="#000000" />
             <Color x:Key="SolidBackgroundFillColorBase">#000000</Color>
             <Color x:Key="SolidBackgroundFillColorSecondary">#000000</Color>
-            <Color x:Key="SolidBackgroundFillColorTertiary">#181818</Color>
-            <Color x:Key="SolidBackgroundFillColorQuarternary">#181818</Color>
+            <Color x:Key="SolidBackgroundFillColorTertiary">#191919</Color>
+            <Color x:Key="SolidBackgroundFillColorQuarternary">#191919</Color>
             <SolidColorBrush x:Key="SolidBackgroundFillColorBaseBrush" Color="{ThemeResource SolidBackgroundFillColorBase}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorSecondaryBrush" Color="{ThemeResource SolidBackgroundFillColorSecondary}" />
             <SolidColorBrush x:Key="SolidBackgroundFillColorTertiaryBrush" Color="{ThemeResource SolidBackgroundFillColorTertiary}" />
@@ -29,7 +29,7 @@
             <CornerRadius x:Key="NavToolbarCornerRadius">16</CornerRadius>
             <CornerRadius x:Key="OverlayCornerRadius">16</CornerRadius>
             <!-- Dialogs -->
-            <SolidColorBrush x:Key="ContentDialogBackground" Color="#181818" />                                 
+            <SolidColorBrush x:Key="ContentDialogBackground" Color="#191919" />                                 
             <SolidColorBrush x:Key="ContentDialogBorderBrush" Color="#00000000" />
             <!-- Dual Panes -->
             <SolidColorBrush x:Key="PaneBorderBrush" Color="#00000000" />
@@ -59,7 +59,7 @@
             <SolidColorBrush x:Key="NavigationViewItemBackgroundSelectedPointerOver" Color="#661A73E8" />
             <SolidColorBrush x:Key="NavigationViewItemBackgroundSelectedPressed" Color="#661A73E8" />
             <SolidColorBrush x:Key="TabViewItemHeaderBackgroundPointerOver" Color="#212121" />
-            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="#181818" />
+            <SolidColorBrush x:Key="TabViewItemHeaderBackgroundSelected" Color="#191919" />
             <SolidColorBrush x:Key="TextControlBackgroundFocused" Color="#212121" />
             <SolidColorBrush x:Key="TextControlButtonBackgroundPointerOver" Color="#21FFFFFF" />
             <SolidColorBrush x:Key="TextControlButtonBackgroundPressed" Color="#661A73E8" />
@@ -67,14 +67,14 @@
             <!-- Navigation -->
             <SolidColorBrush x:Key="NavigationToolbarBackgroundBrush" Color="#000000" />
             <SolidColorBrush x:Key="NavigationViewContentBackground" Color="#000000" />
-            <SolidColorBrush x:Key="TextControlBackground" Color="#181818" />
+            <SolidColorBrush x:Key="TextControlBackground" Color="#191919" />
             <SolidColorBrush x:Key="TextControlBackgroundDisabled" Color="#00000000" />
             <SolidColorBrush x:Key="TextControlBorderBrush" Color="#00000000" />
             <SolidColorBrush x:Key="TextControlButtonBackground" Color="#00000000" />
             <!-- Preview pane -->
             <SolidColorBrush x:Key="PreviewPaneBackgroundBrush" Color="#000000" />
             <!-- Settings -->
-            <SolidColorBrush x:Key="ExpanderHeaderBackground" Color="#181818" />
+            <SolidColorBrush x:Key="ExpanderHeaderBackground" Color="#191919" />
             <!-- ScrollBars -->
             <Color x:Key="ScrollBarPanningThumbBackground">#1A73E8</Color>
             <Color x:Key="ScrollBarPanningThumbBackgroundColor">#1A73E8</Color>
