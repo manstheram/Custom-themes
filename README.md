@@ -13,4 +13,3 @@ We love custom themes! In order for us to include your custom theme in this repo
 
 ## Where to get Files
 - [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
-- [GitHub](https://github.com/files-community/Files/releases)
