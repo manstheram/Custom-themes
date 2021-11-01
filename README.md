@@ -6,7 +6,7 @@ You can find the source code of Files [here](https://github.com/files-community/
 To improve existing themes or to add new themes, edit the corresponding file in the `themes` folder or add a new file in the `themes` folder. See the documentation for instructions on using [custom themes](https://files.community/docs/configuring/custom-themes).
 
 ## About Files
-Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect. Whether you want to simplify your experience with your files or try something new, Files is a one-stop solution for exploring your files on the fly.
+Files is a file manager with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
 ## Creating a custom theme
 We love custom themes! In order for us to include your custom theme in this repostiory, please make sure to incude brushes for both light mode and dark mode. You can use the same brushes for both modes, just make sure they work properly.
