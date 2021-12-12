@@ -9,7 +9,7 @@ To improve existing themes or to add new themes, edit the corresponding file in 
 Files is a file manager with a powerful yet intuitive design. It has features like multiple tabs, panes, columns, shell extensions in the context menu and tags.
 
 ## Creating a custom theme
-We love custom themes! In order for us to include your custom theme in this repostiory, please make sure to incude brushes for both light mode and dark mode. You can use the same brushes for both modes, just make sure they work properly.
+We love custom themes! In order for us to include your custom theme in this repository, please make sure to incude brushes for both light mode and dark mode. You can use the same brushes for both modes, just make sure they work properly.
 
 ## Where to get Files
 - [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
